@@ -1,0 +1,14 @@
+# Specify filepatterns you want git to ignore.
+
+model_*
+session_*
+__pycache__/
+*.py[cod]
+runs/
+.DS_Store
+*.ipynb
+AUGM_EXAMPLES/
+*.pdf
+*.zip
+MIL/
+SUP/
