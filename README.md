@@ -2,7 +2,7 @@
 Source code for my diploma thesis written in 2020.
 
 ## _Disclaimer:_
-In retrospect, even for me today many things in the code seem outdated or impractical. The repository is pretty bare and it lacks in terms of best coding pracitces, structuring and automatization.
+In retrospect, even for me today many things in the code seem outdated or impractical. The repository is pretty bare and it lacks in terms of best coding practices, structuring and automatization.
 
 I went through the code and compiled a (not exhaustive) list of improvements which I would set up and implement if I wrote this today.  
 
