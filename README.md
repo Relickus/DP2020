@@ -2,9 +2,9 @@
 Source code for my diploma thesis written (without a professional programming experience) in 2020.
 
 ## _Disclaimer:_
-In hindsight, many things in the code seem outdated or impractical. The repository is pretty bare and it lacks in terms of best coding practices, structuring and automatization.
+In hindsight, many things in the code seem outdated or impractical. The repository is pretty bare and it lacks in terms of best coding practices, structuring and automatization. I intentionally left the repository in this state to have a threshold to measure the shift in my programming skills. 
 
-There is no point in refactoring the whole thing, but I went through the code and compiled a (not exhaustive) list of improvements which I would implement if I wrote this today.
+I went through the code and compiled a (not exhaustive) list of improvements which I would implement if I wrote this today.
 
 Sorted by the priority in a descending order, those are:
 
