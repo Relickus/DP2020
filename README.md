@@ -6,7 +6,7 @@ Besides a classic supervised learning, a code supporting transfer learning appro
 
 
 ## _Disclaimer:_
-In hindsight, many things in the code seem outdated or impractical. The repository is pretty bare and it lacks in terms of best coding practices, structuring and automatization. I intentionally left the repository in this state to have a threshold to measure the shift in my programming skills. 
+In hindsight, many things in the code seem outdated or impractical. The repository is pretty bare and it lacks in terms of best coding practices, structuring and automatization. I intentionally left the repository in this state to have a benchmark to measure the progress of my programming skills. 
 
 I went through the code and compiled a (not exhaustive) list of improvements which I would implement if I wrote this today.
 
